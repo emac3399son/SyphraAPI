@@ -1,6 +1,7 @@
 # SyphraAPI
 A powerful scripthub API that uses ScriptBlox's integrated Web API.
-[![Star on GitHub](https://via.placeholder.com/200x50?text=Star+on+GitHub)](https://github.com/emac3399son/SyphraAPI)
+
+[![GitHub Stars](https://img.shields.io/github/stars/emac3399son/SyphraAPI?style=social)](https://github.com/emac3399son/SyphraAPI)   Star the Repo please ♥️
 ### Made by @gigzaz on discord
 
 ## How to use it?
